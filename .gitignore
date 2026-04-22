@@ -1,5 +1,6 @@
 .venv/
-Hardware/PCB/gerbers/temp
+.history/
+PCB/gerbers/temp
 
 # KiCAD Auto Generated
 fp-info-cache
@@ -34,4 +35,3 @@ compile_commands.json
 .clangd/
 .cache/
 
-./.history/
