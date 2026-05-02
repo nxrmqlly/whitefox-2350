@@ -26,8 +26,8 @@ The PCB exposes two 2x16 standard 2.54 mm pitch header holes on both sides and a
 
 | What                                       | Image                                |
 |--------------------------------------------|--------------------------------------|
-| [PCB](./Docs/whitefox-pcb.pdf)             | ![pcb](./assets/pcb.png)             |
-| [Schematic](./Docs/whitefox-schematic.pdf) | ![schematic](./assets/schematic.png) |
+| PCB                                        | ![pcb](./assets/pcb.png)             |
+| [Schematic](./Docs/whitefox.pdf) | ![schematic](./assets/schematic.png) |
 
 The PCB and Schematic are available in a high quality PDFs in [Docs/](Docs/)
 
